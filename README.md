@@ -1,9 +1,4 @@
-# Intelligent Calculator MCP
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FastMCP-0A7EA4)
-![LLM](https://img.shields.io/badge/LLM-Groq%20via%20LangChain-F55036)
-![Transport](https://img.shields.io/badge/Transport-Streamable%20HTTP-2E8B57)
+# Calci MCP (as part of Wizori SDP)
 
 A compact MCP server that solves two word-problem types:
 
